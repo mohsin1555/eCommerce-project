@@ -1,0 +1,7 @@
+.kids {
+  height: 500px;
+  background-image: url(kids\ banner.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}

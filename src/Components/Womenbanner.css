@@ -1,0 +1,7 @@
+.women {
+  height: 500px;
+  background-image: url(women\ banner.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
